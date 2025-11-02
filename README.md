@@ -166,7 +166,7 @@ Sugandha Sawhney (SugandhaSawhney)
 • Handled frontend implementation and API integrations.
 • Contributed partially to the SkillBot Nova, Resume Analyzer, and Roadmap Generator, especially during integration and backend refinement.
 
-Prerna Rajora(PrernaRajora) & Sonali Rawat(sonali17sr)
+Prerna Rajora(Prerna-2496) & Sonali Rawat(sonali17sr)
 • Developed the backend functionality of the Resume Analyzer and Roadmap Generator using Streamlit and Google Gemini API.
 • Focused on data processing, visualization, and AI workflow.
 
